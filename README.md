@@ -16,7 +16,6 @@ Ele realiza um scraping no portal [G1](https://g1.globo.com) e coleta as 10 prin
 2. **Instale as dependências**:
    ```bash
    pip install -r requirements.txt
-    
 3. **Execute o scraper**:
    ```bash
    python scraper.py
